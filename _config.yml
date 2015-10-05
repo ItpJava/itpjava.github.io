@@ -1,0 +1,13 @@
+# Site settings
+title: Comunidad Java Perú
+email: itp_java@googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+  Comunidad de usuarios Java en Perú.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://itpjava.github.io" # the base hostname & protocol for your site
+twitter_username: ItpJava
+github_username:  ItpJava
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
